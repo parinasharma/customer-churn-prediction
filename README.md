@@ -17,4 +17,4 @@ This project uses machine learning to predict customer churn based on a telecom 
 Model training completed successfully with good accuracy.
 
 ## Author
-Parina (PSB Academy)
+Parina Roshan Sharma (PSB Academy)
